@@ -73,4 +73,4 @@ The Online Quiz System provides a simple and efficient platform for conducting q
 
 Author
 
-Gayathri
+Karthik
